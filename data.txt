@@ -1,0 +1,3 @@
+dog mammal name weight height action
+cat mammal name weight height action
+pigeon bird name weight height action
